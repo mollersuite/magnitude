@@ -2,12 +2,7 @@
 
 We're [sherlocking](https://en.wiktionary.org/wiki/Sherlock#English) Raycast.
 
-Magnitude is a reimplementation of Raycast in Bun, built Linux-first.
-
-## `HOW2USE`
-
-We are focusing on reimplementing the API first.
-Right now, there is nothing to really use.
+Magnitude is a clean room reimplementation of Raycast built for the Linux desktop.
 
 ## `ETYMOLOGY`
 
